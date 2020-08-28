@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+html(lang="en")
+  head
+    meta(charset="UTF-8")
+    meta(name="viewport", content="width=device-width, initial-scale=1.0")
+    title Frontend Boilerplate
+
+    link(rel="stylesheet", href="../styles/index.scss")
+  body
+    .container
+      include ../includes/header.pug
+      
+      block content
+
+      include ../includes/footer.pug
+
+    script(src="../scripts/index.js")
