@@ -1,6 +1,6 @@
 # frontend-boilerplate
 
-Fucking boilerplate to save your ass from kicking off new projects.
+Front-end boilerplate to save your time from kicking off new projects.
 
 ## Features
 
